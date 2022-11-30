@@ -11,14 +11,14 @@ It is Structured Query Language which is use to interact with the database or we
 
 Its is used to select data from the database.
 
-**Syantax** SELECT col1,col2 FROM table_name;
+**Syntax** SELECT col1,col2 FROM table_name;
 
 
 - ### SELECT DISTINCT
 
 Its is used to select data from the database which is not duplicate.
 
-**Syantax** SELECT DISTINCT col1 FROM table_name;
+**Syntax** SELECT DISTINCT col1 FROM table_name;
 
 
 
