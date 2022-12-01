@@ -21,6 +21,16 @@ Its is used to select data from the database which is not duplicate.
 **Syntax** SELECT DISTINCT col1 FROM table_name;
 
 
+- ### WHERE
+
+Its is used to give filter records.
+
+**Syntax** SELECT  col1 FROM table_name WHERE condition;
+
+
+#### Conditions
+
+![image](https://user-images.githubusercontent.com/60965415/205080761-34c11e26-0110-4038-aa40-b3c22bf0fefe.png)
 
 
 
