@@ -5,7 +5,7 @@ It is Structured Query Language which is use to interact with the database or we
 <details>
 
 
-  <summary> ## Different commands in database </summary>
+  ##    <summary> Different commands in database </summary>
   
   <br/>
 
