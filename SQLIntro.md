@@ -1,10 +1,6 @@
 # SQL
 It is Structured Query Language which is use to interact with the database or we can say that is is used to access and manipulate the database.
 
-<details>
-<summary></summary>
- <br/>
-</details>
 
 <details>
 <summary>Defination</summary>
@@ -31,26 +27,56 @@ It is Structured Query Language which is use to interact with the database or we
   
 </details>
 
+<details>
+<summary>How SQL works</summary>
+ <br/>
+ 
+![image](https://user-images.githubusercontent.com/60965415/205540944-33d29a68-08f7-45d8-93e6-20dbc7686b67.png) 
+ 
+</details>
+
+<details>
+<summary>Types of SQL</summary>
+ <br/>
+ 
+ ![image](https://user-images.githubusercontent.com/60965415/205542057-2c3954a8-5af1-4999-9adc-06a59624af25.png) 
+ 
+</details>
+
+<details>
+<summary>Advantages of SQL</summary>
+ <br/>
+ 
+ ![image](https://user-images.githubusercontent.com/60965415/205542085-46af5fa3-daa3-49d4-a7cd-eb7a375fe352.png)
+ 
+</details>
 
 
+<details>
+<summary>Disadvantages of SQL</summary>
+ <br/>
+ 
+ ![image](https://user-images.githubusercontent.com/60965415/205542099-bee99503-1c29-4545-a83c-88fa89ba31d1.png)
+ 
+</details>
 
 
-![image](https://user-images.githubusercontent.com/60965415/205540944-33d29a68-08f7-45d8-93e6-20dbc7686b67.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542057-2c3954a8-5af1-4999-9adc-06a59624af25.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542085-46af5fa3-daa3-49d4-a7cd-eb7a375fe352.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542099-bee99503-1c29-4545-a83c-88fa89ba31d1.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542360-9a49b4ce-8eb7-4e47-bfbe-755fb74dbfab.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542370-86345d3d-3d59-4c1c-b011-59d09357649b.png)
-
-![image](https://user-images.githubusercontent.com/60965415/205542433-fa31663b-55ee-43d2-8c92-865e62f5c51f.png)
+<details>
+<summary>Applications of SQL</summary>
+ <br/>
+ 
+ ![image](https://user-images.githubusercontent.com/60965415/205542360-9a49b4ce-8eb7-4e47-bfbe-755fb74dbfab.png)
+ 
+</details>
 
 
-
+<details>
+<summary>Companies using SQL</summary>
+ <br/>
+ 
+ ![image](https://user-images.githubusercontent.com/60965415/205542370-86345d3d-3d59-4c1c-b011-59d09357649b.png)
+ 
+</details>
 
 <details>
 
