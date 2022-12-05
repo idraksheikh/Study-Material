@@ -1,9 +1,10 @@
 # SQL
-It is Structured Query Language which is use to interact with the database or we can say that is is used to access and manipulate the database.
+
 
 
 <details>
 <summary>Defination</summary>
+ It is Structured Query Language which is use to interact with the database or we can say that is is used to access and manipulate the database.
  <br/>
   
 ![image](https://user-images.githubusercontent.com/60965415/205540741-e258aa5b-5ab3-462e-9481-4f90500ccedd.png)  
