@@ -3,7 +3,7 @@
 
 
 <details>
-<summary>Defination</summary>
+<summary>Definition</summary>
  It is Structured Query Language which is use to interact with the database or we can say that is is used to access and manipulate the database.
  <br/>
   
