@@ -1,6 +1,15 @@
 # SQL
 It is Structured Query Language which is use to interact with the database or we can say that is is used to access and manipulate the database.
 
+![image](https://user-images.githubusercontent.com/60965415/205540741-e258aa5b-5ab3-462e-9481-4f90500ccedd.png)
+
+
+![image](https://user-images.githubusercontent.com/60965415/205540651-551ca212-aa98-44ee-8772-d62c360b09fd.png)
+
+![image](https://user-images.githubusercontent.com/60965415/205540812-ab667cc5-2d91-437b-9b83-17b11d091227.png)
+
+![image](https://user-images.githubusercontent.com/60965415/205540944-33d29a68-08f7-45d8-93e6-20dbc7686b67.png)
+
 
 <details>
 
