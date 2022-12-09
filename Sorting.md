@@ -2,7 +2,7 @@
 
 ##  Bubble Sort 
 
-<h6>**T(n) --> O(n)** </h6>
+<h6><b>T(n) --> O(n)</b></h6>
 
 **Written Notes**
 
