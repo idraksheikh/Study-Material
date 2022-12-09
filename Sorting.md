@@ -2,7 +2,4 @@
 
 ##  Bubble Sort
 
-![image](https://user-images.githubusercontent.com/60965415/206711985-24442baf-868a-47d0-a373-76055e9ea2f4.png)
-
-
-<!-- <center><img src='' height=600 width=600  /></center> -->
+![image](https://user-images.githubusercontent.com/60965415/206712341-4dee407c-9200-458a-8951-f72a846092a6.png)
