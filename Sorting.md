@@ -1,3 +1,3 @@
 # Sorting
 
- ## - Bubble Sort
+ 1##  Bubble Sort
