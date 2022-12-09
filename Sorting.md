@@ -40,26 +40,29 @@
 ```
 </details>
  </details>
-
-##  Selection Sort
-
-<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
-
-**Written Notes**
-
-![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
-
-
-**Example** 
-
-### Array --> [5 , 4 , 1 , 3 , 2]
+ 
+ 
+ <details>
+<summary><h2> Selection Sort </h2></summary>
+<br />
+ <details>
+<summary><h4> Written Notes </h4></summary>
+<br />
+  
+  ![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
+  
+</details> 
+ <details>
+<summary><h4>Example</h4></summary>
+<br />
+  <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
 
 
 ```java
 
-public static void selectionSort(int[] arr){
+ public static void selectionSort(int[] arr){
         for(int i=0;i<arr.length-1;i++){
             int minPos=i;
             for(int j=i+1;j<arr.length;j++){
@@ -81,6 +84,9 @@ public static void selectionSort(int[] arr){
 
  
 ```
+
+</details>
+ </details>
 
 
 ##  Insertion Sort
