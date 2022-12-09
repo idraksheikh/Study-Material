@@ -1,6 +1,6 @@
 # Sorting
 
-##  Bubble Sort <h2> **T(n) --> O(n)** </h2>
+##  Bubble Sort **T(n) --> O(n)** 
 
 **Written Notes**
 
