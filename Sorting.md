@@ -2,7 +2,7 @@
 
 ##  Bubble Sort 
 
-<h6><b>T(n) --> O(n<sup> 2 </sup>)</b></h6>
+<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
 
 **Written Notes**
 
@@ -38,6 +38,8 @@
 
 
 ##  Selection Sort
+
+<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
 
 **Written Notes**
 
@@ -75,4 +77,85 @@ public static void selectionSort(int[] arr){
 
  
 ```
+
+
+##  Insertion Sort
+
+<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
+
+**Written Notes**
+
+![image](https://user-images.githubusercontent.com/60965415/206715026-60ca630c-c9f0-4dfc-bae5-fe72d7c5ce3e.png)
+
+
+**Example** 
+
+### Array --> [5 , 4 , 1 , 3 , 2]
+
+**Code**
+
+
+```java
+
+public static void insertionSort(int[] arr){
+        for(int i=1;i<arr.length;i++){
+            int cur=arr[i];
+            int pre=i-1;
+            while(pre>=0 && arr[pre]>cur){
+                arr[pre+1]=arr[pre];
+                pre--;
+            }
+            arr[pre+1]=cur;
+        }
+        System.out.print("Using Insertion Sort --> ");
+        printArray(arr);
+    }
+ 
+```
+
+
+##  Counting Sort
+
+<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
+
+**Written Notes**
+
+![image](https://user-images.githubusercontent.com/60965415/206715388-ab870ebd-606a-4dbe-9476-9f7efbaf2499.png)
+
+
+
+**Example** 
+
+### Array --> [5 , 4 , 1 , 3 , 2]
+
+**Code**
+
+
+```java
+
+public static void countingSort(int arr[]){
+        int range=Integer.MIN_VALUE;
+        for(int i=0;i<arr.length;i++){
+            range=Math.max(range, arr[i]);
+        }
+        int[] countArr=new int[range+1];
+        for(int i=0;i<arr.length;i++){
+            countArr[arr[i]]++;
+        }
+        int j=0;
+        for(int i=0;i<countArr.length;i++){
+            while(countArr[i]>0){
+                arr[j]=i;
+                j++;
+                countArr[i]--;
+            }
+        }
+        System.out.print("Using Counting Sort --> ");
+        printArray(arr);
+    }
+
+```
+
+
+
 
