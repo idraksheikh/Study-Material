@@ -5,13 +5,21 @@
 <br />
 <h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
 
-**Written Notes**
+
+ <details>
+<summary><h3> Written Notes </h3></summary>
+<br />
 
 ![image](https://user-images.githubusercontent.com/60965415/206712341-4dee407c-9200-458a-8951-f72a846092a6.png)
+</details>
+ 
+ <details>
+<summary><h3>Example</h3></summary>
+<br />
+ 
 
-**Example** 
 
-### Array --> [5 , 4 , 1 , 3 , 2]
+#### Array --> [5 , 4 , 1 , 3 , 2]
 
 **Code**
 
@@ -36,7 +44,7 @@
     }
 
 ```
-
+</details>
  </details>
 
 ##  Selection Sort
