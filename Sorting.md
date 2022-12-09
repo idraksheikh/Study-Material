@@ -11,7 +11,7 @@
  <details>
 <summary><h4>Example</h4></summary>
 <br />
-### Array --> [5 , 4 , 1 , 3 , 2]
+  <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
 
