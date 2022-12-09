@@ -5,8 +5,10 @@
   <details>
   <summary>Written Notes</summary>
   <br />
-    <img src='https://user-images.githubusercontent.com/60965415/206712341-4dee407c-9200-458a-8951-f72a846092a6.png' height=1000>
-<!--   ![image]() -->
+    
+![image](https://user-images.githubusercontent.com/60965415/206725326-207c21b8-a215-4441-aed2-c2f3527196dd.png)
+![image](https://user-images.githubusercontent.com/60965415/206725490-03573437-4bc1-4a92-bacb-4e42cc54473f.png)
+
   
   </details> 
   <details>
@@ -46,8 +48,7 @@
 
  <details>
 <summary> Written Notes </summary>
-
-  
+<br />  
   ![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
   
 </details> 
@@ -94,7 +95,7 @@
 
  <details>
 <summary> Written Notes </summary>
-
+<br />
   ![image](https://user-images.githubusercontent.com/60965415/206715026-60ca630c-c9f0-4dfc-bae5-fe72d7c5ce3e.png)
   
 </details> 
@@ -136,7 +137,7 @@
 
  <details>
 <summary> Written Notes </summary>
-
+<br />
   ![image](https://user-images.githubusercontent.com/60965415/206715388-ab870ebd-606a-4dbe-9476-9f7efbaf2499.png)
   
 </details> 
