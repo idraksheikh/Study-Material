@@ -3,9 +3,6 @@
 <details>
 <summary><h2> Bubble Sort </h2></summary>
 <br />
-<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
-
-
  <details>
 <summary><h4> Written Notes </h4></summary>
 <br />
@@ -14,7 +11,7 @@
  <details>
 <summary><h4>Example</h4></summary>
 <br />
-#### Array --> [5 , 4 , 1 , 3 , 2]
+### Array --> [5 , 4 , 1 , 3 , 2]
 
 **Code**
 
