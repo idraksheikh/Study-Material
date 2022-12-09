@@ -9,7 +9,7 @@
   
   </details> 
   <details>
-  <summary><h4>Example</h4></summary>
+  <summary>Example</summary>
 
   <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
@@ -44,14 +44,14 @@
 <summary><h2> Selection Sort </h2></summary>
 
  <details>
-<summary><h4> Written Notes </h4></summary>
+<summary> Written Notes </summary>
 
   
   ![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
   
 </details> 
  <details>
-<summary><h4>Example</h4></summary>
+<summary>Example</summary>
 
   <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
@@ -87,25 +87,27 @@
  </details>
 
 
-##  Insertion Sort
 
-<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
+ <details>
+<summary><h2> Insertion Sort </h2></summary>
 
-**Written Notes**
+ <details>
+<summary> Written Notes </summary>
 
-![image](https://user-images.githubusercontent.com/60965415/206715026-60ca630c-c9f0-4dfc-bae5-fe72d7c5ce3e.png)
+  ![image](https://user-images.githubusercontent.com/60965415/206715026-60ca630c-c9f0-4dfc-bae5-fe72d7c5ce3e.png)
+  
+</details> 
+ <details>
+<summary>Example</summary>
 
-
-**Example** 
-
-### Array --> [5 , 4 , 1 , 3 , 2]
+  <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
 
 
 ```java
 
-public static void insertionSort(int[] arr){
+   public static void insertionSort(int[] arr){
         for(int i=1;i<arr.length;i++){
             int cur=arr[i];
             int pre=i-1;
@@ -119,29 +121,35 @@ public static void insertionSort(int[] arr){
         printArray(arr);
     }
  
+
+ 
 ```
 
-
-##  Counting Sort
-
-<h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
-
-**Written Notes**
-
-![image](https://user-images.githubusercontent.com/60965415/206715388-ab870ebd-606a-4dbe-9476-9f7efbaf2499.png)
+</details>
+ </details>
 
 
 
-**Example** 
+ <details>
+<summary><h2> Counting Sort </h2></summary>
 
-### Array --> [5 , 4 , 1 , 3 , 2]
+ <details>
+<summary> Written Notes </summary>
+
+  ![image](https://user-images.githubusercontent.com/60965415/206715388-ab870ebd-606a-4dbe-9476-9f7efbaf2499.png)
+  
+</details> 
+ <details>
+<summary>Example</summary>
+
+  <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
 
 
 ```java
 
-public static void countingSort(int arr[]){
+   public static void countingSort(int arr[]){
         int range=Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){
             range=Math.max(range, arr[i]);
@@ -162,8 +170,9 @@ public static void countingSort(int arr[]){
         printArray(arr);
     }
 
+
+ 
 ```
 
-
-
-
+</details>
+ </details>
