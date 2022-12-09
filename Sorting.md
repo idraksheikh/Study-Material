@@ -1,7 +1,8 @@
 # Sorting
 
-##  Bubble Sort 
-
+<details>
+<summary><h2> Bubble Sort </h2></summary>
+<br />
 <h6><b>T(n) --> O( n<sup> 2 </sup>)</b></h6>
 
 **Written Notes**
@@ -36,6 +37,7 @@
 
 ```
 
+ </details>
 
 ##  Selection Sort
 
