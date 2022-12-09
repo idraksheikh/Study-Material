@@ -49,6 +49,7 @@
  <details>
 <summary> Written Notes </summary>
 <br />  
+   
   ![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
   
 </details> 
@@ -96,6 +97,7 @@
  <details>
 <summary> Written Notes </summary>
 <br />
+   
   ![image](https://user-images.githubusercontent.com/60965415/206715026-60ca630c-c9f0-4dfc-bae5-fe72d7c5ce3e.png)
   
 </details> 
@@ -138,6 +140,7 @@
  <details>
 <summary> Written Notes </summary>
 <br />
+   
   ![image](https://user-images.githubusercontent.com/60965415/206715388-ab870ebd-606a-4dbe-9476-9f7efbaf2499.png)
   
 </details> 
