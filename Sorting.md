@@ -2,25 +2,23 @@
 
 <details>
 <summary><h2> Bubble Sort </h2></summary>
-
- <details>
-<summary><h4> Written Notes </h4></summary>
-
+  <details>
+  <summary>Written Notes</summary>
   
   ![image](https://user-images.githubusercontent.com/60965415/206712341-4dee407c-9200-458a-8951-f72a846092a6.png)
   
-</details> 
- <details>
-<summary><h4>Example</h4></summary>
+  </details> 
+  <details>
+  <summary><h4>Example</h4></summary>
 
   <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
-**Code**
+  **Code**
 
 
-```java
+  ```java
 
- public static void bubbleSort(int[] arr){
+  public static void bubbleSort(int[] arr){
         for(int i=0;i<arr.length-1;i++){
             int swap=0;
             for(int j=0;j<arr.length-1-i;j++){
@@ -37,9 +35,9 @@
         printArray(arr);
     }
 
-```
-</details>
+  ```
  </details>
+</details>
  
  
  <details>
