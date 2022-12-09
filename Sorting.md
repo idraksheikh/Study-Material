@@ -2,17 +2,17 @@
 
 <details>
 <summary><h2> Bubble Sort </h2></summary>
-<br />
+
  <details>
 <summary><h4> Written Notes </h4></summary>
-<br />
+
   
   ![image](https://user-images.githubusercontent.com/60965415/206712341-4dee407c-9200-458a-8951-f72a846092a6.png)
   
 </details> 
  <details>
 <summary><h4>Example</h4></summary>
-<br />
+
   <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
@@ -44,17 +44,17 @@
  
  <details>
 <summary><h2> Selection Sort </h2></summary>
-<br />
+
  <details>
 <summary><h4> Written Notes </h4></summary>
-<br />
+
   
   ![image](https://user-images.githubusercontent.com/60965415/206713458-97bade6e-33ef-4c6c-be84-d75251d35468.png)
   
 </details> 
  <details>
 <summary><h4>Example</h4></summary>
-<br />
+
   <b>Array --> [5 , 4 , 1 , 3 , 2]</b>
 
 **Code**
