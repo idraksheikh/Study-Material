@@ -1,6 +1,10 @@
 # Kotlin Basics
 
-Basic Program to Print Hello.
+<details>
+<summary>
+  1. Basic Program to Print Hello.
+</summary>
+
 ```Kotlin
 
 fun main(){
@@ -8,3 +12,4 @@ fun main(){
 }
 
 ```
+</details>
