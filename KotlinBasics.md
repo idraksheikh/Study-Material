@@ -18,7 +18,9 @@ fun main(){
   2. Basic Data Types in Kotlin.
 </summary>
 <hr/>  
+  
 ![image](https://github.com/idraksheikh/Study-Material/assets/60965415/5834f113-6556-4e4a-b1f8-6ef95e0a167b)
+
 <hr/>
 
 o Datatype Declaration.
