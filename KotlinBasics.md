@@ -27,15 +27,20 @@ fun main(){
 
 ```Kotlin
 
-//    Integer type variables
+    //Integer type variables
+
     private var intVal=45
     private var byteVal : Byte = 22
     private var shortVal: Short = 2343
     private var longVal : Long =3242342342423424
+
     // Float type variables
+
     private  var floatVal : Float = 3.4f
     private var doubleVal : Double = 35.3
+
     // Unsigned type variables
+
     private var uIntVal : UInt=45u // Must add 'u' at last to make them unsigned
     private var uByteVal : UByte = 22u
     private var uShortVal: UShort = 2343u
