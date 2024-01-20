@@ -23,7 +23,7 @@ fun main(){
 
 <hr/>
 
--->  Datatype Declaration.
+->  Datatype Declaration.
 
 ```Kotlin
 
