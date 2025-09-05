@@ -3,8 +3,50 @@
 <details>
 <summary>05 September 2025</summary>
  
-<img width="738" height="1110" alt="image" src="https://github.com/user-attachments/assets/9d85b625-f7b5-4f1a-9701-c88e99916be8" />
-<img width="737" height="267" alt="image" src="https://github.com/user-attachments/assets/38c2e138-1c3a-4c18-90e2-8a60c1292276" />
-<img width="739" height="1082" alt="image" src="https://github.com/user-attachments/assets/6027848a-0b2e-4fe4-ad6c-8e63a28283aa" />
+# ASP.NET Core (MVC)
+
+## What is ASP.NET Core?
+- A framework built by Microsoft to create web applications.  
+- Runs on **C#**.  
+- **Advantages**:  
+  - Cross-platform  
+  - High performance  
+  - Open-source  
+
+---
+
+## Approaches/Patterns in ASP.NET Core
+- MVC (Model-View-Controller)  
+- Web API  
+- Razor Pages  
+- Blazor  
+
+---
+
+## MVC (Model-View-Controller)
+
+MVC is one of the patterns/approaches of ASP.NET Core to build applications.  
+
+### Components
+1. **Model** – Represents the shape of data.  
+2. **View** – Represents the user interface.  
+3. **Controller** – Handles user requests and acts as an interface between Model & View.  
+
+### Web App Configuration
+Two aspects:
+1. Add services to the container  
+2. Configure request pipeline  
+
+---
+
+## MVC Architecture
+
+```mermaid
+flowchart LR
+    User[User (Actor)] -->|1. Request| Controller
+    Controller -->|2. Get data| Model
+    Model --> Controller
+    Controller -->|3. Get presentation| View
+    View -->|4. Response| User
 
 </details>
