@@ -3,8 +3,6 @@
 <details>
 <summary>05 September 2025</summary>
  
-# ASP.NET Core (MVC)
-
 ## What is ASP.NET Core?
 - A framework built by Microsoft to create web applications.  
 - Runs on **C#**.  
@@ -41,13 +39,7 @@ Two aspects:
 
 ## MVC Architecture
 
-```mermaid
-flowchart LR
-    User[User (Actor)] -->|1. Request| Controller
-    Controller -->|2. Get data| Model
-    Model --> Controller
-    Controller -->|3. Get presentation| View
-    View -->|4. Response| User
-```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/619422bb-a3c4-4ebc-a51b-215f9e10a5d7" />
+
 
 </details>
