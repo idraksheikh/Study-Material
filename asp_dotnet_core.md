@@ -84,8 +84,8 @@ At different ports → different services/apps can run.
 Hosting
 In production hosting, ports are usually hidden using Reverse Proxy.
 
-flowchart LR
-    A[http://api.com/api] -- reverse proxy --> B[http://app.com:5024/]
+
+    http://app.com/api --> reverse proxy --> http://app.com:5024/
 
 
 Default Ports
