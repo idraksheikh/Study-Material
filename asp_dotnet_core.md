@@ -48,5 +48,6 @@ flowchart LR
     Model --> Controller
     Controller -->|3. Get presentation| View
     View -->|4. Response| User
+```
 
 </details>
