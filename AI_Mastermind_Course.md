@@ -1,7 +1,8 @@
 ## OutSkill AI Mastermind Class
 
 <details>
-<summary>
+  
+<summary>  
   
 **Day 1**
 
