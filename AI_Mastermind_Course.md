@@ -12,5 +12,3 @@
   - Session 3 - [CustomGPT & AI Agents Resources](https://link.outskill.com/resource-session3)
 
 </details>
-
-<details>
