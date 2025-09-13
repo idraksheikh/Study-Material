@@ -1,5 +1,7 @@
 ## ASP .NET CORE (Notes)
 
+### This was from a different video which only has MVC tutorial
+
 <details>
 <summary>05 September 2025</summary>
  
@@ -98,4 +100,125 @@ Nginx
 Apache
 IIS
 
+</details>
+
+
+### This is from  video (ASP NET Core Tutorial)[https://www.youtube.com/watch?v=4IgC2Q5-yDE&list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU]
+
+<details>
+
+ <summary>13 September 2025</summary>
+
+# ASP.NET Core
+
+It is a **.NET Core framework** for building modern, cloud-based, and internet-connected applications.
+
+---
+
+## Features
+
+### (i) Cross Platform
+- It can be developed and run on different platforms like:
+  - Windows  
+  - macOS  
+  - Linux  
+
+- It can be hosted on:
+  - IIS  
+  - Kestrel  
+  - Docker  
+  - Self-host in your own process  
+
+---
+
+### (ii) Unified Programming Model for MVC & Web API
+- Both MVC & Web API controller classes use the same **Controller** base class.  
+- They return `IActionResult` interface.  
+
+IActionResult
+├── ViewResult
+└── JsonResult
+
+
+---
+
+### (iii) Dependency Injection
+- Built-in support for DI.
+
+---
+
+### (iv) Testability
+- Provides better testability for apps.
+
+---
+
+### (v) Open Source
+- Entirely open source and community-driven.
+
+---
+
+### (vi) Modularity (Modular)
+- Provides modularity using **middleware components**.  
+- Both request & response pipelines are composed of middleware.  
+- Rich set of middleware components provided out of the box.  
+- Custom middleware components can also be created.  
+
+---
+
+## ASP.NET Core Templates
+
+ASP.NET Core
+├── Empty
+├── Web API
+├── Web App (MVC)
+├── Web App (Blazor)
+├── Web App (Razor Pages)
+└── Class Library
+
+---
+
+## ASP.NET Core Project File
+
+- `.csproj` or `.vbproj` depending on language.  
+- No need to unload project to access project file.  
+- File or folder references are no longer included in project file.  
+- The **file system** determines what files & folders belong to the project.  
+
+---
+
+## Target Framework
+
+- Defines which API or SDK the project supports.  
+- Defined using **Target Framework Moniker (TFM)**.  
+
+Example:  
+
+```xml
+<TargetFramework>net9.0</TargetFramework>
+
+```
+
+# ASP.NET Core Hosting Model
+
+Specifies how the apps should be hosted:
+
+## InProcess
+- Hosts the app inside of **IIS worker process** (`w3wp.exe`).
+
+## OutOfProcess
+- Forwards web requests to backend ASP.NET Core app running the **Kestrel server**.  
+- **Default mode** is **OutOfProcess**.
+
+---
+
+# Package Reference
+
+- Used to include a reference to a **NuGet package** that is installed in the app.  
+- Example metapackage: `Microsoft.AspNetCore.App`.  
+- A metapackage does not have content of its own.  
+- It just contains a list of dependencies (other packages).  
+- If version is not specified, an **implicit version** is specified by the SDK.  
+- Prefer implicit versioning instead of explicitly setting version numbers.  
+
+ 
 </details>
