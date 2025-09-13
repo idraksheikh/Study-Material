@@ -103,8 +103,7 @@ IIS
 </details>
 
 
-### This is from  video (ASP NET Core Tutorial)[https://www.youtube.com/watch?v=4IgC2Q5-yDE&list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU]
-
+### This is from  video [ASP NET Core Tutorial](https://www.youtube.com/watch?v=4IgC2Q5-yDE&list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
 <details>
 
  <summary>13 September 2025</summary>
